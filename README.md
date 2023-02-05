@@ -1,7 +1,7 @@
 # ML--Crop-Recommendation
 
 ## Data
-[Link to data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset/ “data”)
+[Link to data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset "data")
 
 ## Atrributes
 * N - ratio of Nitrogen (NH4+) content in soil
