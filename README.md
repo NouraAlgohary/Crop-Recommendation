@@ -1,4 +1,5 @@
 # ML--Crop-Recommendation
+A machine learning model to determine the best crop based on soil elements, temperature, humidity, and rainfall.
 
 ## Data
 [Link to data](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset "data")
@@ -15,3 +16,13 @@
 
 **Target**
 * Recommended crop
+
+**Code**
+1. Data Loading and Discovery
+2. Choose a Model:
+    - Random Forest Classifier
+    - GaussianNB
+    - SVC
+    - Logistic Regression
+    - DecisionTreeClassifier
+3. Testing
