@@ -17,6 +17,11 @@ A machine learning model to determine the best crop based on soil elements, temp
 **Target**
 * Recommended crop
 
+**Limitations**
+**Results**
+- Train Accuracy = 99%
+- Test Accuracy = 
+
 **Code**
 1. Data Loading and Discovery
 2. Choose a Model:
