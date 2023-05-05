@@ -17,12 +17,13 @@ A machine learning model to determine the best crop based on soil elements, temp
 **Target**
 * Recommended crop
 
-**Limitations**
-**Results**
-- Train Accuracy = 99%
-- Test Accuracy = 
+## Limitations
 
-**Code**
+
+## Requirments
+[Requirments](https://github.com/iurwpoietknckvjndfsm-gndvkd/ML--Crop-Recommendation/blob/main/Requirments.txt)
+
+## Code
 1. Data Loading and Discovery
 2. Choose a Model:
     - Random Forest Classifier
@@ -31,3 +32,7 @@ A machine learning model to determine the best crop based on soil elements, temp
     - Logistic Regression
     - DecisionTreeClassifier
 3. Testing
+
+## Results
+- Train Accuracy = 100%
+- Test Accuracy = 99.3%
